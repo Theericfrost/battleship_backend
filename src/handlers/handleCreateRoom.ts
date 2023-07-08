@@ -26,7 +26,6 @@ const handleCreateRoom = (socket: WebSocket) => {
     );
     console.log(`Room ${roomId} was created by ${playerInfo?.name}`)
   });
-  // logInfo();
 };
 
 export default handleCreateRoom;

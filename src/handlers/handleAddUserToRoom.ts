@@ -37,7 +37,6 @@ const handleAddUserToRoom = (socket: WebSocket, response: Response) => {
       console.log(`Game ${roomId} was created`)
     });
   }
-  // logInfo();
 };
 
 export default handleAddUserToRoom;

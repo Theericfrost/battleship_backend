@@ -52,7 +52,6 @@ const handlePlayerRegistration = (socket: WebSocket, response: Response) => {
       console.log(`Player ${isExist.name} logined`)
     }
   }
-  // logInfo();
 };
 
 export default handlePlayerRegistration;

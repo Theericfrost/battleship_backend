@@ -137,7 +137,6 @@ const handleAttack = (response: Response) => {
       });
     }
   }
-  // logInfo();
 };
 
 export default handleAttack;

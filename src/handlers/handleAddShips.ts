@@ -43,8 +43,6 @@ const handleAddShips = (response: Response) => {
     });
     console.log(`Ships were added`)
   }
-
-  // logInfo();
 };
 
 export default handleAddShips;
