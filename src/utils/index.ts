@@ -1,10 +1,4 @@
-import { players, rooms, games, Ship, Coordinate, Response, Position } from "../../db";
-
-export const logInfo = () => {
-  console.log(players, "players");
-  console.log(rooms, "rooms");
-  console.log(games, "games");
-};
+import { Ship, Coordinate, Response, Position } from "../../db";
 
 export const randomIntFromInterval = (min: number, max: number) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
