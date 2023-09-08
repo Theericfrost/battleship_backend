@@ -1,11 +1,10 @@
 INSTRUCTION:
-1. Start frontend application from repo https://github.com/rolling-scopes-school/websockets-ui;
-2. Open frontend application in two diffrent browsers or in one but in two different tabs
-3. Login or reg by any account password and login (there are validation on password when you are log in)
-4. One of user create room and the second enter in this room
-5. Locate the ships and then game will start
-6. Play game until the win or loose and finish the game.
-7. Get a result on main screen.
+1. Open frontend application in two diffrent browsers or in one but in two different tabs
+2. Login or reg by any account password and login (there are validation on password when you are log in)
+3. One of user create room and the second enter in this room
+4. Locate the ships and then game will start
+5. Play game until the win or loose and finish the game.
+6. Get a result on main screen.
 
 SCORE:
 Websocket
